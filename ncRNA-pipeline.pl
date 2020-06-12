@@ -76,7 +76,7 @@ my $basic_usage = qq^
 # Optional:
 #
 # -db <string>			:Fasta sequence database to run searches against. (.fna) 
-#					Default - /cluster/home/nmr07003/metatranscriptomes/Databases/blast_out/HOMD/intergenic/refseq77_bacteria_complete.fna
+#					Default - /xxx/xxx/refseq77/refseq77_bacteria_complete.fna
 #
 # -cpu <int>			:Number of cores to run the pipeline on. Default - 12
 #
